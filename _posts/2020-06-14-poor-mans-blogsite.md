@@ -12,4 +12,4 @@ Hosting a website or a blogsite is not an easy task in terms of developing, main
 
 [Github Pages](https://pages.github.com/) allows you to host a website directly from a repository. With a few clicks you can have a website live in minutes. You can also deploy a blogsite using [Jekyll](https://jekyllrb.com/), a ruby-based static site generator. Since it's static, it loads fast. Another good thing is that they also allow custom urls, so you can access your site using a preffered domain name. How cool is that?
 
-As a software engineer who knows how things work from developing, deploying and maintaining a website won't mind using a simple solution like Github Pages for my blogsite. In the end, what matters it that it's working and serving it's purpose.
+As a software engineer who knows how things work from developing, deploying and maintaining a website won't mind using a simple solution like Github Pages for my blogsite. In the end, what matter is that it's working and serving it's purpose.
